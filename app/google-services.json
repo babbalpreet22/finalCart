@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "673747304261",
+    "firebase_url": "https://finalcart-b32df.firebaseio.com",
+    "project_id": "finalcart-b32df",
+    "storage_bucket": "finalcart-b32df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673747304261:android:33d1d0afaf55b4129d482c",
+        "android_client_info": {
+          "package_name": "com.example.finalcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673747304261-jmnunk3n3snb1h9e7nh6m31ocgivqouh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalcart",
+            "certificate_hash": "ec59d9129f07807d2958a04e396e2169b6d6d97c"
+          }
+        },
+        {
+          "client_id": "673747304261-lltj22ru2i358p1uunuluhr7j40931dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCqFOdB8U4BhpEcJ_BDdo0Zt_-Pn-i3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673747304261-lltj22ru2i358p1uunuluhr7j40931dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
